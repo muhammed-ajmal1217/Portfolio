@@ -701,6 +701,9 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
+.portfolio-lightbox{
+  padding-inline: 50vh;
+}
 
 /*--------------------------------------------------------------
 # Services
